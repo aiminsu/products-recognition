@@ -41,8 +41,8 @@ def inference(img_pil):
 
 
 # 配置gradio组件值
-title = "饮料识别"
-description = "上传Query图片，在Gallery图像库(约1k张)中进行搜索识别，默认返回相似分大于0.5的最相似结果。"
+title = "商品识别"
+description = "上传Query图片，在Gallery(约1k张饮料图像库)中进行搜索识别，默认返回相似分大于0.5的最相似结果。"
 
 if __name__ == "__main__":
     # 开启服务
