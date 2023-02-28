@@ -19,4 +19,4 @@ cd client
 # 启动服务
 python app.py
 ```
-浏览器输入http://localhost:7860打开可视化界面。
+浏览器输入 http://localhost:7860 打开可视化界面。
